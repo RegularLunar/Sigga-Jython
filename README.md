@@ -16,9 +16,10 @@ This script contains the core functionality of signature creation, plus advanced
 ## Installation
 To get the latest version with all performance fixes, download **Sigga.java** directly from the source:
 
-👉 **[Download Sigga.java](https://github.com/lexika979/Sigga/blob/main/Sigga.java)**
+👉 **[Download Sigga.java](https://github.com/RegularLunar/Sigga-Jython/blob/main/Sigga.java)**
+or alternatively 👉 **[Download Sigga.py(https://github.com/RegularLunar/Sigga-Jython/blob/main/Sigga.py)**
 
-*(Note: The [Releases page](https://github.com/lexika979/Sigga/releases) may not always contain the most recent logic updates.)*
+*(Note: The [Releases page](https://github.com/RegularLunar/Sigga-Jython/releases) may not always contain the most recent logic updates.)*
 
 **Setup:**
 1.  Place `Sigga.java` inside `C:/Users/(your username)/ghidra_scripts`. If the folder does not exist yet, create it first.
@@ -59,6 +60,7 @@ Feel free to open a pull request, but please make sure your changes/new code are
 - **lexika** - Original author and creator of Sigga.
 - **[@Krixx1337](https://github.com/Krixx1337)** - Major architectural overhaul, adding the XRef fallback, sliding window search, and advanced stability analysis.
 - **outercloudstudio** - Fixed a bug with the original wildcard placement.
+- **RegularLunar** - 1:1 Jython Script Remake.
 
 ## Known bugs/Issues
 
