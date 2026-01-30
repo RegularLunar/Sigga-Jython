@@ -17,7 +17,7 @@ This script contains the core functionality of signature creation, plus advanced
 To get the latest version with all performance fixes, download **Sigga.java** directly from the source:
 
 👉 **[Download Sigga.java](https://github.com/RegularLunar/Sigga-Jython/blob/main/Sigga.java)**
-or alternatively 👉 **[Download Sigga.py(https://github.com/RegularLunar/Sigga-Jython/blob/main/Sigga.py)**
+or alternatively 👉 **[Download Sigga.py](https://github.com/RegularLunar/Sigga-Jython/blob/main/Sigga.py)**
 
 *(Note: The [Releases page](https://github.com/RegularLunar/Sigga-Jython/releases) may not always contain the most recent logic updates.)*
 
