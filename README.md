@@ -22,7 +22,7 @@ or alternatively 👉 **[Download Sigga.py](https://github.com/RegularLunar/Sigg
 *(Note: The [Releases page](https://github.com/RegularLunar/Sigga-Jython/releases) may not always contain the most recent logic updates.)*
 
 **Setup:**
-1.  Place `Sigga.java` inside `C:/Users/(your username)/ghidra_scripts`. If the folder does not exist yet, create it first.
+1.  Place `Sigga.java` or  `Sigga.py` inside `C:/Users/(your username)/ghidra_scripts`. If the folder does not exist yet, create it first.
 2.  Open Ghidra and the Script Manager.
 3.  Open the "Functions" folder.
 4.  Right click "Sigga" and assign a keybind (I recommend *Ctrl-Alt-S*).
